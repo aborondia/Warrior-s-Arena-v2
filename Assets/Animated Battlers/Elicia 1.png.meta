@@ -1,0 +1,3004 @@
+fileFormatVersion: 2
+guid: 9d27330f4cb02374bbf0cca66d23c921
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2061798779870600098
+    second: Elicia 1_0
+  - first:
+      213: 3275463317397446599
+    second: Elicia 1_1
+  - first:
+      213: 678289135287236016
+    second: Elicia 1_2
+  - first:
+      213: -6752370709638854307
+    second: Elicia 1_3
+  - first:
+      213: 4499048513896923949
+    second: Elicia 1_4
+  - first:
+      213: -5022695534685977670
+    second: Elicia 1_5
+  - first:
+      213: 6207517626414295326
+    second: Elicia 1_6
+  - first:
+      213: -1172417273422547564
+    second: Elicia 1_7
+  - first:
+      213: 1289155417761900595
+    second: Elicia 1_8
+  - first:
+      213: 2266776323679084694
+    second: Elicia 1_9
+  - first:
+      213: -5171340383262565673
+    second: Elicia 1_10
+  - first:
+      213: -2004184337262076421
+    second: Elicia 1_11
+  - first:
+      213: 8559005142828695592
+    second: Elicia 1_12
+  - first:
+      213: -5209848770459582979
+    second: Elicia 1_13
+  - first:
+      213: 4393181979992435915
+    second: Elicia 1_14
+  - first:
+      213: 7292695692144494496
+    second: Elicia 1_15
+  - first:
+      213: -1874569320724952518
+    second: Elicia 1_16
+  - first:
+      213: -555928692383396376
+    second: Elicia 1_17
+  - first:
+      213: -7515845323489515877
+    second: Elicia 1_18
+  - first:
+      213: 4747233874684418783
+    second: Elicia 1_19
+  - first:
+      213: -3109912928255517837
+    second: Elicia 1_20
+  - first:
+      213: 5714127037029204045
+    second: Elicia 1_21
+  - first:
+      213: 3270715335735682155
+    second: Elicia 1_22
+  - first:
+      213: -2461070820269117157
+    second: Elicia 1_23
+  - first:
+      213: 5839954984548839037
+    second: Elicia 1_24
+  - first:
+      213: -2065537404115998324
+    second: Elicia 1_25
+  - first:
+      213: 6824248153295373285
+    second: Elicia 1_26
+  - first:
+      213: -6485885325338782900
+    second: Elicia 1_27
+  - first:
+      213: -6913854469946251974
+    second: Elicia 1_28
+  - first:
+      213: -6806852884771113025
+    second: Elicia 1_29
+  - first:
+      213: 5423675528370125787
+    second: Elicia 1_30
+  - first:
+      213: 6563321252417589420
+    second: Elicia 1_31
+  - first:
+      213: -554118153072910879
+    second: Elicia 1_32
+  - first:
+      213: 7836871855784850536
+    second: Elicia 1_33
+  - first:
+      213: -2683298913992031016
+    second: Elicia 1_34
+  - first:
+      213: -3431378228184280824
+    second: Elicia 1_35
+  - first:
+      213: -6183534036221831486
+    second: Elicia 1_36
+  - first:
+      213: 2285374786662813666
+    second: Elicia 1_37
+  - first:
+      213: 7788589731614623556
+    second: Elicia 1_38
+  - first:
+      213: -4068435885983273342
+    second: Elicia 1_39
+  - first:
+      213: -5326288971918074833
+    second: Elicia 1_40
+  - first:
+      213: -2333513549800714302
+    second: Elicia 1_41
+  - first:
+      213: -7219239215664822080
+    second: Elicia 1_42
+  - first:
+      213: -2930042409376305533
+    second: Elicia 1_43
+  - first:
+      213: -7196721243559918268
+    second: Elicia 1_44
+  - first:
+      213: 6877357229296430585
+    second: Elicia 1_45
+  - first:
+      213: -3475044740563443901
+    second: Elicia 1_46
+  - first:
+      213: -5210945108078629288
+    second: Elicia 1_47
+  - first:
+      213: 7566352996631375102
+    second: Elicia 1_48
+  - first:
+      213: 942834930865670639
+    second: Elicia 1_49
+  - first:
+      213: 4638731534541465312
+    second: Elicia 1_50
+  - first:
+      213: 4030628467051907676
+    second: Elicia 1_51
+  - first:
+      213: -7406649459752382663
+    second: Elicia 1_52
+  - first:
+      213: -5265099402334427399
+    second: Elicia 1_53
+  - first:
+      213: -6263742484065814998
+    second: Elicia 1_54
+  - first:
+      213: 1364120807090118886
+    second: Elicia 1_55
+  - first:
+      213: -5197414479122811543
+    second: Elicia 1_56
+  - first:
+      213: 2569454831582583961
+    second: Elicia 1_57
+  - first:
+      213: 5837957629004097536
+    second: Elicia 1_58
+  - first:
+      213: 453655072250705081
+    second: Elicia 1_59
+  - first:
+      213: -6277639554854537486
+    second: Elicia 1_60
+  - first:
+      213: -4261625444783519726
+    second: Elicia 1_61
+  - first:
+      213: 1221293051967169967
+    second: Elicia 1_62
+  - first:
+      213: 6891486877841510452
+    second: Elicia 1_63
+  - first:
+      213: -5024627728293891740
+    second: Elicia 1_64
+  - first:
+      213: 5495488335376770147
+    second: Elicia 1_65
+  - first:
+      213: -63516017285732593
+    second: Elicia 1_66
+  - first:
+      213: 399687794957057316
+    second: Elicia 1_67
+  - first:
+      213: -4299110708054074927
+    second: Elicia 1_68
+  - first:
+      213: 1582777156307953070
+    second: Elicia 1_69
+  - first:
+      213: -5258430300110210718
+    second: Elicia 1_70
+  - first:
+      213: 5206659692163469316
+    second: Elicia 1_71
+  - first:
+      213: 7507137723150238666
+    second: Elicia 1_72
+  - first:
+      213: -2757727824696522155
+    second: Elicia 1_73
+  - first:
+      213: 9181569686523807986
+    second: Elicia 1_74
+  - first:
+      213: 5643269057896270294
+    second: Elicia 1_75
+  - first:
+      213: 8292998744085577876
+    second: Elicia 1_76
+  - first:
+      213: 1422731086001494829
+    second: Elicia 1_77
+  - first:
+      213: 267247592306994887
+    second: Elicia 1_78
+  - first:
+      213: -3828835768001657299
+    second: Elicia 1_79
+  - first:
+      213: 2256858622516081769
+    second: Elicia 1_80
+  - first:
+      213: 8994601535339711612
+    second: Elicia 1_81
+  - first:
+      213: 8137188119508276873
+    second: Elicia 1_82
+  - first:
+      213: 3967890840043640821
+    second: Elicia 1_83
+  - first:
+      213: -4014098498830187393
+    second: Elicia 1_84
+  - first:
+      213: 8363286487391777042
+    second: Elicia 1_85
+  - first:
+      213: -5717061273419323159
+    second: Elicia 1_86
+  - first:
+      213: 7404490913271920174
+    second: Elicia 1_87
+  - first:
+      213: -2686275799956035784
+    second: Elicia 1_88
+  - first:
+      213: 5395798865603635053
+    second: Elicia 1_89
+  - first:
+      213: -6908850024666821348
+    second: Elicia 1_90
+  - first:
+      213: -8512517453134486639
+    second: Elicia 1_91
+  - first:
+      213: -5659905708770781128
+    second: Elicia 1_92
+  - first:
+      213: 744182032775782468
+    second: Elicia 1_93
+  - first:
+      213: -7568268032730962365
+    second: Elicia 1_94
+  - first:
+      213: -1248713219909332326
+    second: Elicia 1_95
+  - first:
+      213: 838947593638715594
+    second: Elicia 1_96
+  - first:
+      213: 6533385533389575036
+    second: Elicia 1_97
+  - first:
+      213: 5823517641367496013
+    second: Elicia 1_98
+  - first:
+      213: 3701722948119616268
+    second: Elicia 1_99
+  - first:
+      213: -6660599146788994763
+    second: Elicia 1_100
+  - first:
+      213: 8363068193223219124
+    second: Elicia 1_101
+  - first:
+      213: -5088646181863622218
+    second: Elicia 1_102
+  - first:
+      213: -5275797813432324135
+    second: Elicia 1_103
+  - first:
+      213: -6833946670127263985
+    second: Elicia 1_104
+  - first:
+      213: 8589868788091761123
+    second: Elicia 1_105
+  - first:
+      213: -5677503539919155606
+    second: Elicia 1_106
+  - first:
+      213: 127930450421645445
+    second: Elicia 1_107
+  - first:
+      213: 3705196413657582599
+    second: Elicia 1_108
+  - first:
+      213: 3214871983705760822
+    second: Elicia 1_109
+  - first:
+      213: -2487704446671242409
+    second: Elicia 1_110
+  - first:
+      213: -6410729741477323659
+    second: Elicia 1_111
+  - first:
+      213: -2529337026496092836
+    second: Elicia 1_112
+  - first:
+      213: -8117952754360290700
+    second: Elicia 1_113
+  - first:
+      213: -7739508785490538214
+    second: Elicia 1_114
+  - first:
+      213: -5035939673204225453
+    second: Elicia 1_115
+  - first:
+      213: 8416161531025713047
+    second: Elicia 1_116
+  - first:
+      213: 4980391042490083405
+    second: Elicia 1_117
+  - first:
+      213: 2810239394770836466
+    second: Elicia 1_118
+  - first:
+      213: 7436386469850190902
+    second: Elicia 1_119
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elicia 1_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1249
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54aa7ffee40363e0800000000000000
+      internalID: -2061798779870600098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1249
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf1c447888c47d20800000000000000
+      internalID: 3275463317397446599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1249
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b57dc3ff54c96900800000000000000
+      internalID: 678289135287236016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1249
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59493c7d92ca42a0800000000000000
+      internalID: -6752370709638854307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1153
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23431259c4df6e30800000000000000
+      internalID: 4499048513896923949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_5
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1153
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab30a18c50dcb4ab0800000000000000
+      internalID: -5022695534685977670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1153
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1966637468852650800000000000000
+      internalID: 6207517626414295326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_7
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1153
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495fd1993bcbabfe0800000000000000
+      internalID: -1172417273422547564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1058
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338e7ffa50004e110800000000000000
+      internalID: 1289155417761900595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_9
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1058
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69068267e05357f10800000000000000
+      internalID: 2266776323679084694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1058
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da90030255bb38b0800000000000000
+      internalID: -5171340383262565673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_11
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1058
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd9711c6f4bf24e0800000000000000
+      internalID: -2004184337262076421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 962
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820cb0174d1b7c670800000000000000
+      internalID: 8559005142828695592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_13
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 962
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd304f6526e2b7b0800000000000000
+      internalID: -5209848770459582979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_14
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 962
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcca8171cb7b7fc30800000000000000
+      internalID: 4393181979992435915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_15
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 962
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a74b49f71cd43560800000000000000
+      internalID: 7292695692144494496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_16
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 867
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a085b72213cf5e0800000000000000
+      internalID: -1874569320724952518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_17
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 867
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed4a0abcc1f848f0800000000000000
+      internalID: -555928692383396376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_18
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 865
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9660aabf7a52b790800000000000000
+      internalID: -7515845323489515877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_19
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 865
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda144e9e0091e140800000000000000
+      internalID: 4747233874684418783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 769
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b5fe43bae57d4d0800000000000000
+      internalID: -3109912928255517837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_21
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 769
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40c493f348ac4f40800000000000000
+      internalID: 5714127037029204045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_22
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 769
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64a2f3d44ae36d20800000000000000
+      internalID: 3270715335735682155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_23
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 769
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11b7c6d02588ddd0800000000000000
+      internalID: -2461070820269117157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 674
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e2e46fd10bb0150800000000000000
+      internalID: 5839954984548839037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_25
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 674
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c892265bcacb553e0800000000000000
+      internalID: -2065537404115998324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_26
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 674
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3494cf98994be50800000000000000
+      internalID: 6824248153295373285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_27
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 674
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43534909a18df5a0800000000000000
+      internalID: -6485885325338782900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_28
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 578
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a356b12adfd0d00a0800000000000000
+      internalID: -6913854469946251974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_29
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 578
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7ffd49d533981a0800000000000000
+      internalID: -6806852884771113025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_30
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 578
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbfa7d3824c44b40800000000000000
+      internalID: 5423675528370125787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_31
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 578
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca05f15b7e9951b50800000000000000
+      internalID: 6563321252417589420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 483
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed5e72c9706f48f0800000000000000
+      internalID: -554118153072910879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_33
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 483
+        width: 63
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864ff4a6e6922cc60800000000000000
+      internalID: 7836871855784850536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_34
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 483
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4405dbad103cad0800000000000000
+      internalID: -2683298913992031016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_35
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 483
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80111138eab4160d0800000000000000
+      internalID: -3431378228184280824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_36
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 386
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6d57a4e8caf2aa0800000000000000
+      internalID: -6183534036221831486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_37
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 386
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efcba1924847bf10800000000000000
+      internalID: 2285374786662813666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_38
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 386
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447052e5811a61c60800000000000000
+      internalID: 7788589731614623556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_39
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 386
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ee3800e130a87c0800000000000000
+      internalID: -4068435885983273342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_40
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 289
+        width: 26
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c1eb166683516b0800000000000000
+      internalID: -5326288971918074833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_41
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 289
+        width: 27
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf41993ac1bd9fd0800000000000000
+      internalID: -2333513549800714302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_42
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 289
+        width: 26
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c88ab9be2c10db90800000000000000
+      internalID: -7219239215664822080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_43
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 289
+        width: 27
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38eab44e3f56657d0800000000000000
+      internalID: -2930042409376305533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_44
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 193
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4458a1aa82c102c90800000000000000
+      internalID: -7196721243559918268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_45
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 193
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdada556f7417f50800000000000000
+      internalID: 6877357229296430585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_46
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 193
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f5024583926cfc0800000000000000
+      internalID: -3475044740563443901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_47
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 193
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ee9e078010fa7b0800000000000000
+      internalID: -5210945108078629288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 95
+        width: 79
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efcec6156f5110960800000000000000
+      internalID: 7566352996631375102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_49
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 95
+        width: 79
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe90410df5f951d00800000000000000
+      internalID: 942834930865670639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_50
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 95
+        width: 79
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e62fbce0c5106040800000000000000
+      internalID: 4638731534541465312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_51
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 95
+        width: 79
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ac4305c3bafe730800000000000000
+      internalID: 4030628467051907676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fce97fe8b463990800000000000000
+      internalID: -7406649459752382663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 58
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f62cb04dfb9ee6b0800000000000000
+      internalID: -5265099402334427399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_54
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 58
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26fbb0c567b219a0800000000000000
+      internalID: -6263742484065814998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_55
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 58
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0635985a45ee210800000000000000
+      internalID: 1364120807090118886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_56
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 58
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965b96d71131fd7b0800000000000000
+      internalID: -5197414479122811543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_57
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 58
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c14e64e8988a320800000000000000
+      internalID: 2569454831582583961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_58
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 58
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00822926887940150800000000000000
+      internalID: 5837957629004097536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4be0872e4bb4600800000000000000
+      internalID: 453655072250705081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_60
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f634f0d51851e8a0800000000000000
+      internalID: -6277639554854537486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_61
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21889edac3aabd4c0800000000000000
+      internalID: -4261625444783519726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_62
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5e7216f87e2f010800000000000000
+      internalID: 1221293051967169967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_63
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43052008dca73af50800000000000000
+      internalID: 6891486877841510452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_64
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461f676e3bfe44ab0800000000000000
+      internalID: -5024627728293891740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3646f615685e34c40800000000000000
+      internalID: 5495488335376770147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_66
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07e220d4885e1ff0800000000000000
+      internalID: -63516017285732593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_67
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d797f8ee9fb8500800000000000000
+      internalID: 399687794957057316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_68
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9db54b69d7654c0800000000000000
+      internalID: -4299110708054074927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_69
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5a650107727f510800000000000000
+      internalID: 1582777156307953070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_70
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269b7cd908d4607b0800000000000000
+      internalID: -5258430300110210718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_71
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4009fb96765c14840800000000000000
+      internalID: 5206659692163469316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_72
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac30e441cf5be2860800000000000000
+      internalID: 7507137723150238666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_73
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 38
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ac0cd87259ab9d0800000000000000
+      internalID: -2757727824696522155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_74
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f80fbddbfc7b6f70800000000000000
+      internalID: 9181569686523807986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_75
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d94cdf0f4be05e40800000000000000
+      internalID: 5643269057896270294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_76
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4904bf76b66a61370800000000000000
+      internalID: 8292998744085577876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_77
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b5600826e8eb310800000000000000
+      internalID: 1422731086001494829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_78
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce698ee44475b300800000000000000
+      internalID: 267247592306994887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_79
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2683f0b72e3ddac0800000000000000
+      internalID: -3828835768001657299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_80
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9643957b5f8f15f10800000000000000
+      internalID: 2256858622516081769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_81
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c4b12e07e33dc70800000000000000
+      internalID: 8994601535339711612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_82
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986d1d56b791de070800000000000000
+      internalID: 8137188119508276873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_83
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7d35c32b7c01730800000000000000
+      internalID: 3967890840043640821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_84
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f744cc3deae0b48c0800000000000000
+      internalID: -4014098498830187393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_85
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211bfcbefbc501470800000000000000
+      internalID: 8363286487391777042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_86
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 28
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8e2b6ef0be8a0b0800000000000000
+      internalID: -5717061273419323159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_87
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e263e24414902c660800000000000000
+      internalID: 7404490913271920174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_88
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83764e6746e68bad0800000000000000
+      internalID: -2686275799956035784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_89
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67a2c7ea7ab1ea40800000000000000
+      internalID: 5395798865603635053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_90
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d0949d185de10a0800000000000000
+      internalID: -6908850024666821348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_91
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1932b954a767dd980800000000000000
+      internalID: -8512517453134486639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_92
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838138eceb9f371b0800000000000000
+      internalID: -5659905708770781128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_93
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44024dfad9dd35a00800000000000000
+      internalID: 744182032775782468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_94
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3466028925c18f690800000000000000
+      internalID: -7568268032730962365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_95
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9258f441fdabaee0800000000000000
+      internalID: -1248713219909332326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_96
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac02108346a84ab00800000000000000
+      internalID: 838947593638715594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_97
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c739c5af68f3baa50800000000000000
+      internalID: 6533385533389575036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_98
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d452ee4c07a41d050800000000000000
+      internalID: 5823517641367496013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_99
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bd493a8692f5330800000000000000
+      internalID: 3701722948119616268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_100
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5314f588d5cc093a0800000000000000
+      internalID: -6660599146788994763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_101
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7107956369f0470800000000000000
+      internalID: 8363068193223219124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_102
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9fe56224f7169b0800000000000000
+      internalID: -5088646181863622218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_103
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df659f47d998c6b0800000000000000
+      internalID: -5275797813432324135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_104
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fc91916b1f821a0800000000000000
+      internalID: -6833946670127263985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_105
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1bc65d628553770800000000000000
+      internalID: 8589868788091761123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_106
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e88147c947531b0800000000000000
+      internalID: -5677503539919155606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_107
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580865d111086c100800000000000000
+      internalID: 127930450421645445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_108
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c8c1bd1808b6330800000000000000
+      internalID: 3705196413657582599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_109
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634232b39058d9c20800000000000000
+      internalID: 3214871983705760822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_110
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b30067cf5e97dd0800000000000000
+      internalID: -2487704446671242409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_111
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c563004438807a0800000000000000
+      internalID: -6410729741477323659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_112
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55257a106df5ecd0800000000000000
+      internalID: -2529337026496092836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_113
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47273fc0bfc375f80800000000000000
+      internalID: -8117952754360290700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_114
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1152d8e3cdb79490800000000000000
+      internalID: -7739508785490538214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_115
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a8d5c7c8fbc1ab0800000000000000
+      internalID: -5035939673204225453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_116
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797681d52563cc470800000000000000
+      internalID: 8416161531025713047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_117
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48a8221447ed1540800000000000000
+      internalID: 4980391042490083405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_118
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbdf1b17d9fff620800000000000000
+      internalID: 2810239394770836466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elicia 1_119
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63411fb381a533760800000000000000
+      internalID: 7436386469850190902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

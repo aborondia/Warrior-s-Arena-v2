@@ -1,0 +1,3316 @@
+fileFormatVersion: 2
+guid: 9e13aa4e4d0cce14f99dba7aad1c4477
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3444693433979706967
+    second: Adela Squire 6_0
+  - first:
+      213: -1786040092851836081
+    second: Adela Squire 6_1
+  - first:
+      213: -102739405437081260
+    second: Adela Squire 6_2
+  - first:
+      213: 6167862091829032210
+    second: Adela Squire 6_3
+  - first:
+      213: -5368149947454672866
+    second: Adela Squire 6_4
+  - first:
+      213: 5880508055619442579
+    second: Adela Squire 6_5
+  - first:
+      213: 575310816222044953
+    second: Adela Squire 6_6
+  - first:
+      213: 3816659712793380441
+    second: Adela Squire 6_7
+  - first:
+      213: -7564578075610834696
+    second: Adela Squire 6_8
+  - first:
+      213: 2304862856259012811
+    second: Adela Squire 6_9
+  - first:
+      213: -2863060162505134127
+    second: Adela Squire 6_10
+  - first:
+      213: 7239004122776077632
+    second: Adela Squire 6_11
+  - first:
+      213: -6718217603063710814
+    second: Adela Squire 6_12
+  - first:
+      213: 2818280829815447761
+    second: Adela Squire 6_13
+  - first:
+      213: 3912029918863492986
+    second: Adela Squire 6_14
+  - first:
+      213: -2126871777222668439
+    second: Adela Squire 6_15
+  - first:
+      213: 4068875760858756115
+    second: Adela Squire 6_16
+  - first:
+      213: 8457561409522227892
+    second: Adela Squire 6_17
+  - first:
+      213: -7077881169694151006
+    second: Adela Squire 6_18
+  - first:
+      213: -5456023908804919791
+    second: Adela Squire 6_19
+  - first:
+      213: -3230580936116198811
+    second: Adela Squire 6_20
+  - first:
+      213: -4695034142004889387
+    second: Adela Squire 6_21
+  - first:
+      213: 5924053979616590608
+    second: Adela Squire 6_22
+  - first:
+      213: 5781603859250938767
+    second: Adela Squire 6_23
+  - first:
+      213: -8597054894891334759
+    second: Adela Squire 6_24
+  - first:
+      213: 1455028880007928986
+    second: Adela Squire 6_25
+  - first:
+      213: -1089088831350577756
+    second: Adela Squire 6_26
+  - first:
+      213: -6123613217235635166
+    second: Adela Squire 6_27
+  - first:
+      213: 5431975148130750445
+    second: Adela Squire 6_28
+  - first:
+      213: 1558273226833408017
+    second: Adela Squire 6_29
+  - first:
+      213: 618838660863994624
+    second: Adela Squire 6_30
+  - first:
+      213: -484123115362701304
+    second: Adela Squire 6_31
+  - first:
+      213: 5108891908535200584
+    second: Adela Squire 6_32
+  - first:
+      213: -1702114478117410947
+    second: Adela Squire 6_33
+  - first:
+      213: 2484946462628288842
+    second: Adela Squire 6_34
+  - first:
+      213: 3382208758646892163
+    second: Adela Squire 6_35
+  - first:
+      213: -479633559449652061
+    second: Adela Squire 6_36
+  - first:
+      213: -1047555418809043833
+    second: Adela Squire 6_37
+  - first:
+      213: -1410322767064557184
+    second: Adela Squire 6_38
+  - first:
+      213: 3345630606117184608
+    second: Adela Squire 6_39
+  - first:
+      213: 393277127899003095
+    second: Adela Squire 6_40
+  - first:
+      213: 6226943540485070692
+    second: Adela Squire 6_41
+  - first:
+      213: 4324401553805698707
+    second: Adela Squire 6_42
+  - first:
+      213: -4665300665946775802
+    second: Adela Squire 6_43
+  - first:
+      213: -3385652414918571000
+    second: Adela Squire 6_44
+  - first:
+      213: 5600348321035278026
+    second: Adela Squire 6_45
+  - first:
+      213: -5512620509565528100
+    second: Adela Squire 6_46
+  - first:
+      213: -855793270576788975
+    second: Adela Squire 6_47
+  - first:
+      213: -7354717382681390079
+    second: Adela Squire 6_48
+  - first:
+      213: 3906093871186564008
+    second: Adela Squire 6_49
+  - first:
+      213: 7592073862706231289
+    second: Adela Squire 6_50
+  - first:
+      213: -3803169324087064922
+    second: Adela Squire 6_51
+  - first:
+      213: 6331982933596981017
+    second: Adela Squire 6_52
+  - first:
+      213: 4759878325801486339
+    second: Adela Squire 6_53
+  - first:
+      213: 2635343260722781713
+    second: Adela Squire 6_54
+  - first:
+      213: 3429217224530073370
+    second: Adela Squire 6_55
+  - first:
+      213: 79069150066379207
+    second: Adela Squire 6_56
+  - first:
+      213: 6269757472765126685
+    second: Adela Squire 6_57
+  - first:
+      213: 28532884429780783
+    second: Adela Squire 6_58
+  - first:
+      213: 7745726758877481480
+    second: Adela Squire 6_59
+  - first:
+      213: 7081247529350004971
+    second: Adela Squire 6_60
+  - first:
+      213: -5507825092185035364
+    second: Adela Squire 6_61
+  - first:
+      213: 1601963111218095621
+    second: Adela Squire 6_62
+  - first:
+      213: 633978478092884127
+    second: Adela Squire 6_63
+  - first:
+      213: -80757125906927129
+    second: Adela Squire 6_64
+  - first:
+      213: 3418123530694411115
+    second: Adela Squire 6_65
+  - first:
+      213: 1498151325518587000
+    second: Adela Squire 6_66
+  - first:
+      213: -1543380960511438599
+    second: Adela Squire 6_67
+  - first:
+      213: -816049379340237882
+    second: Adela Squire 6_68
+  - first:
+      213: -1797275144523804069
+    second: Adela Squire 6_69
+  - first:
+      213: 15022649072482702
+    second: Adela Squire 6_70
+  - first:
+      213: -3000716218637423517
+    second: Adela Squire 6_71
+  - first:
+      213: 3328025689847078183
+    second: Adela Squire 6_72
+  - first:
+      213: 7284199378267370445
+    second: Adela Squire 6_73
+  - first:
+      213: -1689294808727636168
+    second: Adela Squire 6_74
+  - first:
+      213: -5815829604002174944
+    second: Adela Squire 6_75
+  - first:
+      213: 2942774516770428931
+    second: Adela Squire 6_76
+  - first:
+      213: -5942119229946102135
+    second: Adela Squire 6_77
+  - first:
+      213: 1966303411876292124
+    second: Adela Squire 6_78
+  - first:
+      213: 6485962450438824433
+    second: Adela Squire 6_79
+  - first:
+      213: 2572619526347262323
+    second: Adela Squire 6_80
+  - first:
+      213: 3513499292233309048
+    second: Adela Squire 6_81
+  - first:
+      213: 2753275258924100692
+    second: Adela Squire 6_82
+  - first:
+      213: -2960273423872995524
+    second: Adela Squire 6_83
+  - first:
+      213: 6188596441639044952
+    second: Adela Squire 6_84
+  - first:
+      213: -6094347488214372934
+    second: Adela Squire 6_85
+  - first:
+      213: 7327170523037247076
+    second: Adela Squire 6_86
+  - first:
+      213: 8648281890335826576
+    second: Adela Squire 6_87
+  - first:
+      213: -6165514562182448206
+    second: Adela Squire 6_88
+  - first:
+      213: -1226874339112808889
+    second: Adela Squire 6_89
+  - first:
+      213: 6246562068591560752
+    second: Adela Squire 6_90
+  - first:
+      213: -7433147599624253264
+    second: Adela Squire 6_91
+  - first:
+      213: -9178693118164020154
+    second: Adela Squire 6_92
+  - first:
+      213: 2601245664702679329
+    second: Adela Squire 6_93
+  - first:
+      213: 4353976470201528667
+    second: Adela Squire 6_94
+  - first:
+      213: -7106476549719531110
+    second: Adela Squire 6_95
+  - first:
+      213: 8360122532504447695
+    second: Adela Squire 6_96
+  - first:
+      213: -5747782015957226801
+    second: Adela Squire 6_97
+  - first:
+      213: 1413162093784488485
+    second: Adela Squire 6_98
+  - first:
+      213: -7083424866465993342
+    second: Adela Squire 6_99
+  - first:
+      213: 2977524009885244444
+    second: Adela Squire 6_100
+  - first:
+      213: -4248202142027529461
+    second: Adela Squire 6_101
+  - first:
+      213: -4943559607262418862
+    second: Adela Squire 6_102
+  - first:
+      213: -3455777428617040844
+    second: Adela Squire 6_103
+  - first:
+      213: 1700712017865791494
+    second: Adela Squire 6_104
+  - first:
+      213: -5984779314497143642
+    second: Adela Squire 6_105
+  - first:
+      213: 2690017876701799945
+    second: Adela Squire 6_106
+  - first:
+      213: -6089495960114682333
+    second: Adela Squire 6_107
+  - first:
+      213: 212026728263047787
+    second: Adela Squire 6_108
+  - first:
+      213: 216592702506071846
+    second: Adela Squire 6_109
+  - first:
+      213: 4081946638832688165
+    second: Adela Squire 6_110
+  - first:
+      213: -1994248209338277809
+    second: Adela Squire 6_111
+  - first:
+      213: -7956512436618978641
+    second: Adela Squire 6_112
+  - first:
+      213: 1475098815728060396
+    second: Adela Squire 6_113
+  - first:
+      213: 8749942877569080091
+    second: Adela Squire 6_114
+  - first:
+      213: -3045327940281670146
+    second: Adela Squire 6_115
+  - first:
+      213: 1876287393472946858
+    second: Adela Squire 6_116
+  - first:
+      213: -1482721556979165457
+    second: Adela Squire 6_117
+  - first:
+      213: 8882696336837692153
+    second: Adela Squire 6_118
+  - first:
+      213: 8649538056713335129
+    second: Adela Squire 6_119
+  - first:
+      213: 5873494376395785561
+    second: Adela Squire 6_120
+  - first:
+      213: -1880871982063483958
+    second: Adela Squire 6_121
+  - first:
+      213: 1190626051298968683
+    second: Adela Squire 6_122
+  - first:
+      213: 6057412630010307616
+    second: Adela Squire 6_123
+  - first:
+      213: -2144066023202196333
+    second: Adela Squire 6_124
+  - first:
+      213: 1661329041474023911
+    second: Adela Squire 6_125
+  - first:
+      213: -6649427508491246265
+    second: Adela Squire 6_126
+  - first:
+      213: -2325006907869153993
+    second: Adela Squire 6_127
+  - first:
+      213: -6763701722196599376
+    second: Adela Squire 6_128
+  - first:
+      213: 6914801100413254056
+    second: Adela Squire 6_129
+  - first:
+      213: -3305933903377772695
+    second: Adela Squire 6_130
+  - first:
+      213: -9116959054195746666
+    second: Adela Squire 6_131
+  - first:
+      213: 7714254622558221220
+    second: Adela Squire 6_132
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Adela Squire 6_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1250
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1e483929df130d0800000000000000
+      internalID: -3444693433979706967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1250
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4be5f69ff5b637e0800000000000000
+      internalID: -1786040092851836081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1250
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459ec7a1e0ff29ef0800000000000000
+      internalID: -102739405437081260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_3
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1250
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215311fc4e5a89550800000000000000
+      internalID: 6167862091829032210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1154
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10bee080108085b0800000000000000
+      internalID: -5368149947454672866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_5
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1154
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397150a9be2cb9150800000000000000
+      internalID: 5880508055619442579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_6
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1154
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913ea54a32aebf700800000000000000
+      internalID: 575310816222044953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_7
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1154
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956089989cf77f430800000000000000
+      internalID: 3816659712793380441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1058
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8128fa158350790800000000000000
+      internalID: -7564578075610834696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1058
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc88f4b5e848cff10800000000000000
+      internalID: 2304862856259012811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_10
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1058
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df2f4b83fd5448d0800000000000000
+      internalID: -2863060162505134127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_11
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1058
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04508a155eb167460800000000000000
+      internalID: 7239004122776077632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_12
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 963
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab7c954fa814c2a0800000000000000
+      internalID: -6718217603063710814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_13
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 963
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0617a9b7b8c1720800000000000000
+      internalID: 2818280829815447761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_14
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 963
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a770f800c725a4630800000000000000
+      internalID: 3912029918863492986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_15
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 963
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fc6d32365db72e0800000000000000
+      internalID: -2126871777222668439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 866
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314fe2952fc877830800000000000000
+      internalID: 4068875760858756115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_17
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 866
+        width: 93
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4badf98ba4b4f5570800000000000000
+      internalID: 8457561409522227892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_18
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 866
+        width: 91
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae24fd839056cd90800000000000000
+      internalID: -7077881169694151006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 866
+        width: 81
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ef4a5892f4844b0800000000000000
+      internalID: -5456023908804919791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 770
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56225a441cbaa23d0800000000000000
+      internalID: -3230580936116198811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_21
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 770
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8b77db253e7deb0800000000000000
+      internalID: -4695034142004889387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_22
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 770
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b394d15b7763250800000000000000
+      internalID: 5924053979616590608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_23
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 770
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f830ea6e3126c3050800000000000000
+      internalID: 5781603859250938767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 674
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993087b4f1021b880800000000000000
+      internalID: -8597054894891334759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_25
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 674
+        width: 80
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c9ecaae0d413410800000000000000
+      internalID: 1455028880007928986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_26
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 674
+        width: 80
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5e0866a77c2e0f0800000000000000
+      internalID: -1089088831350577756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_27
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 674
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22478c4293e840ba0800000000000000
+      internalID: -6123613217235635166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_28
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 579
+        width: 26
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def451d0e90426b40800000000000000
+      internalID: 5431975148130750445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_29
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 579
+        width: 26
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11038646e3910a510800000000000000
+      internalID: 1558273226833408017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_30
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 579
+        width: 28
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ba31abb7e869800800000000000000
+      internalID: 618838660863994624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_31
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 579
+        width: 26
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8003041779c0849f0800000000000000
+      internalID: -484123115362701304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_32
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 482
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bab1c6f1e66e640800000000000000
+      internalID: 5108891908535200584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_33
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 482
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7723cc76efd068e0800000000000000
+      internalID: -1702114478117410947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_34
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 482
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4992d654ad4c7220800000000000000
+      internalID: 2484946462628288842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_35
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 482
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386ec5f32f400fe20800000000000000
+      internalID: 3382208758646892163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 388
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4b5a2a1dff759f0800000000000000
+      internalID: -479633559449652061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_37
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 388
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784f95395e55671f0800000000000000
+      internalID: -1047555418809043833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_38
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 388
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08998726ae68d6ce0800000000000000
+      internalID: -1410322767064557184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_39
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 388
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0642a437f411e6e20800000000000000
+      internalID: 3345630606117184608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_40
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 290
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8b4b2d673357500800000000000000
+      internalID: 393277127899003095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_41
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 290
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f9607882c8a6650800000000000000
+      internalID: 6226943540485070692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_42
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 290
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3966cb03d4c530c30800000000000000
+      internalID: 4324401553805698707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_43
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 290
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f59db13c5814fb0800000000000000
+      internalID: -4665300665946775802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_44
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 195
+        width: 23
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cc5db011fb301d0800000000000000
+      internalID: -3385652414918571000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_45
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 195
+        width: 23
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac653c5402f68bd40800000000000000
+      internalID: 5600348321035278026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_46
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 195
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd750d98adc3f73b0800000000000000
+      internalID: -5512620509565528100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_47
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 195
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ac91afd8c9f14f0800000000000000
+      internalID: -855793270576788975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_48
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 95
+        width: 61
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10492e5e18bcee990800000000000000
+      internalID: -7354717382681390079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_49
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 95
+        width: 61
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3d7633eab353630800000000000000
+      internalID: 3906093871186564008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_50
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 95
+        width: 61
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7f12f14f67c5960800000000000000
+      internalID: 7592073862706231289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_51
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 95
+        width: 61
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6c02956ad683bc0800000000000000
+      internalID: -3803169324087064922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91742e80ee8bfd750800000000000000
+      internalID: 6331982933596981017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 58
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3088a7f4e1c7e0240800000000000000
+      internalID: 4759878325801486339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_54
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 58
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ed994abbe929420800000000000000
+      internalID: 2635343260722781713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_55
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 58
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1714cd95e6079f20800000000000000
+      internalID: 3429217224530073370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_56
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 58
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9066a19f8e81100800000000000000
+      internalID: 79069150066379207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_57
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 58
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d182400f337a20750800000000000000
+      internalID: 6269757472765126685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_58
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 58
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27bad8d18e556000800000000000000
+      internalID: 28532884429780783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a4126d2795e7b60800000000000000
+      internalID: 7745726758877481480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_60
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be005812c15a54260800000000000000
+      internalID: 7081247529350004971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_61
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9de357a2464093b0800000000000000
+      internalID: -5507825092185035364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_62
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5062f6b46f05b3610800000000000000
+      internalID: 1601963111218095621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_63
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9818fd11185cc800800000000000000
+      internalID: 633978478092884127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_64
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e17c3562d711eef0800000000000000
+      internalID: -80757125906927129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63c17dbd3d9f6f20800000000000000
+      internalID: 3418123530694411115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_66
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874e05961b08ac410800000000000000
+      internalID: 1498151325518587000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_67
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f05d9f813fc49ae0800000000000000
+      internalID: -1543380960511438599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_68
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c34f31c96fcca4f0800000000000000
+      internalID: -816049379340237882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_69
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52150747cbce07e0800000000000000
+      internalID: -1797275144523804069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_70
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89fc8d050f553000800000000000000
+      internalID: 15022649072482702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_71
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cec546f705b56d0800000000000000
+      internalID: -3000716218637423517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_72
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d95b67bb58f2e20800000000000000
+      internalID: 3328025689847078183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_73
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 38
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc37fbebdbca61560800000000000000
+      internalID: 7284199378267370445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_74
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837b0ec525b6e88e0800000000000000
+      internalID: -1689294808727636168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_75
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028ef3be9c50a4fa0800000000000000
+      internalID: -5815829604002174944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_76
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3085c2ed4d5d6d820800000000000000
+      internalID: 2942774516770428931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_77
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e7b060b0a598da0800000000000000
+      internalID: -5942119229946102135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_78
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1666810986b94b10800000000000000
+      internalID: 1966303411876292124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_79
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1adec0c74c20a50800000000000000
+      internalID: 6485962450438824433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_80
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379892234d7c3b320800000000000000
+      internalID: 2572619526347262323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_81
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b1720bdf472c030800000000000000
+      internalID: 3513499292233309048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_82
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45cea01b249953620800000000000000
+      internalID: 2753275258924100692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_83
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f4504510ffae6d0800000000000000
+      internalID: -2960273423872995524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_84
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8574422dcaf42e550800000000000000
+      internalID: 6188596441639044952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_85
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd203baf378c6ba0800000000000000
+      internalID: -6094347488214372934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_86
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 28
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466295a05c65fa560800000000000000
+      internalID: 7327170523037247076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_87
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09229e60f8ed40870800000000000000
+      internalID: 8648281890335826576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_88
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbfd970c21bf6aa0800000000000000
+      internalID: -6165514562182448206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_89
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e8321f94449fee0800000000000000
+      internalID: -1226874339112808889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_90
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03844dd0b1f30b650800000000000000
+      internalID: 6246562068591560752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_91
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0595104a728d890800000000000000
+      internalID: -7433147599624253264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_92
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644d2856d3bbe9080800000000000000
+      internalID: -9178693118164020154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_93
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129c02a662b791420800000000000000
+      internalID: 2601245664702679329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_94
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5175c2088e6c6c30800000000000000
+      internalID: 4353976470201528667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_95
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91e251da39b06d90800000000000000
+      internalID: -7106476549719531110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_96
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcaaaa4462f150470800000000000000
+      internalID: 8360122532504447695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_97
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcaad74a5b6cb30b0800000000000000
+      internalID: -5747782015957226801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_98
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a5212ef6f8c9310800000000000000
+      internalID: 1413162093784488485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_99
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d20211d9e92bd90800000000000000
+      internalID: -7083424866465993342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_100
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c1867bf4a425920800000000000000
+      internalID: 2977524009885244444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_101
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b034566e8aa5b05c0800000000000000
+      internalID: -4248202142027529461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_102
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2586723bab2f46bb0800000000000000
+      internalID: -4943559607262418862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_103
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ce778fcbc9a00d0800000000000000
+      internalID: -3455777428617040844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_104
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608d02ac1942a9710800000000000000
+      internalID: 1700712017865791494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_105
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acba441ceac1fca0800000000000000
+      internalID: -5984779314497143642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_106
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906e24ca10dd45520800000000000000
+      internalID: 2690017876701799945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_107
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326203410b3cd7ba0800000000000000
+      internalID: -6089495960114682333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_108
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ad10d9f2541f200800000000000000
+      internalID: 212026728263047787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_109
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627f0d55aed710300800000000000000
+      internalID: 216592702506071846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_110
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cd8b747dcf5a830800000000000000
+      internalID: 4081946638832688165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_111
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40ee60d1d10354e0800000000000000
+      internalID: -1994248209338277809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_112
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa1954281ac49190800000000000000
+      internalID: -7956512436618978641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_113
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce70218be8a987410800000000000000
+      internalID: 1475098815728060396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_114
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bd67e10ba0e6970800000000000000
+      internalID: 8749942877569080091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_115
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef560f68f52dcb5d0800000000000000
+      internalID: -3045327940281670146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_116
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2af708179e90a10800000000000000
+      internalID: 1876287393472946858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_117
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6517789905c6be0800000000000000
+      internalID: -1482721556979165457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_118
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9facfdc714da54b70800000000000000
+      internalID: 8882696336837692153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_119
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951fe9d0905590870800000000000000
+      internalID: 8649538056713335129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_120
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95543572408d28150800000000000000
+      internalID: 5873494376395785561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_121
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac30f19c5ecc5e5e0800000000000000
+      internalID: -1880871982063483958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_122
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b644000e514f58010800000000000000
+      internalID: 1190626051298968683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_123
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024aab581b0401450800000000000000
+      internalID: 6057412630010307616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_124
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3947c08cf4fbe32e0800000000000000
+      internalID: -2144066023202196333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_125
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1791c06f93e0710800000000000000
+      internalID: 1661329041474023911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_126
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7452ba449ec78b3a0800000000000000
+      internalID: -6649427508491246265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_127
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7353124298aebbfd0800000000000000
+      internalID: -2325006907869153993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_128
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd16c98e118222a0800000000000000
+      internalID: -6763701722196599376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_129
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9bc92f6fe46ff50800000000000000
+      internalID: 6914801100413254056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_130
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f4f3661a6fe12d0800000000000000
+      internalID: -3305933903377772695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_131
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69891ee3b0e0a7180800000000000000
+      internalID: -9116959054195746666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adela Squire 6_132
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a37f7415b98e0b60800000000000000
+      internalID: 7714254622558221220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
