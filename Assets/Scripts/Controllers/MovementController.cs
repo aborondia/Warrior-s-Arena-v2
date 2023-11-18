@@ -4,102 +4,115 @@ using UnityEngine;
 
 public class MovementController : MonoBehaviour
 {
-  [SerializeField] private Transform characterTransform;
-  [SerializeField] private Transform opponentTransform;
-  [SerializeField] private Transform originPoint;
-  [SerializeField] private Transform middlePoint;
-  [SerializeField] private Transform opponentOriginPoint;
-  private CharacterController characterController;
-  public CharacterController CharacterController => characterController;
-  private bool moving = false;
-  public bool Moving => moving;
+    public enum MovementDestinations
+    {
+        Origin,
+        Middle,
+        Opponent,
+        OpponentOrigin,
+    }
+    [SerializeField] private Transform characterTransform;
+    [SerializeField] private Transform opponentTransform;
+    [SerializeField] private Transform originPoint;
+    [SerializeField] private Transform middlePoint;
+    [SerializeField] private Transform opponentOriginPoint;
+    private CharacterController characterController;
+    public CharacterController CharacterController => characterController;
+    private bool moving = false;
+    public bool Moving => moving;
 
-  private void Awake()
-  {
-    this.characterController = GetComponent<CharacterController>();
-  }
-
-  private void Update()
-  {
-    if (Input.GetKeyDown(KeyCode.A))
+    private void Awake()
     {
-      MoveToOrigin();
-    }
-    if (Input.GetKeyDown(KeyCode.B))
-    {
-      MoveToMiddle();
-    }
-    if (Input.GetKeyDown(KeyCode.C))
-    {
-      MoveToOpponent();
-    }
-  }
-  public void MoveToOrigin(float travelTime = .5f)
-  {
-    if (this.moving)
-    {
-      return;
+        this.characterController = GetComponent<CharacterController>();
     }
 
-    this.moving = true;
-
-    StartCoroutine(StartMovingToTransform(this.originPoint, travelTime));
-  }
-
-  public void MoveToMiddle(float travelTime = .5f)
-  {
-    if (this.moving)
+    private void Update()
     {
-      return;
+        if (Input.GetKeyDown(KeyCode.A))
+        {
+            MoveToOrigin();
+        }
+        if (Input.GetKeyDown(KeyCode.B))
+        {
+            MoveToMiddle();
+        }
+        if (Input.GetKeyDown(KeyCode.C))
+        {
+            MoveToOpponent();
+        }
     }
 
-    StartCoroutine(StartMovingToTransform(this.middlePoint, travelTime));
-  }
-
-  public void MoveToOpponent(float travelTime = .5f)
-  {
-    if (this.moving)
+    public void StartMoving(MovementDestinations destination)
     {
-      return;
+        if (this.moving)
+        {
+            return;
+        }
+        Debug.Log("move started");
+        this.moving = true;
+
+        switch (destination)
+        {
+            case MovementDestinations.Middle:
+                MoveToMiddle();
+                break;
+            case MovementDestinations.Opponent:
+                MoveToOpponent();
+                break;
+            case MovementDestinations.OpponentOrigin:
+                MoveToOpponentOrigin();
+                break;
+            case MovementDestinations.Origin:
+                MoveToOrigin();
+                break;
+        }
     }
 
-    StartCoroutine(StartMovingToTransform(this.opponentTransform, travelTime, true));
-  }
-
-  public void MoveToOpponentOrigin(float travelTime = .5f)
-  {
-    if (this.moving)
+    private void MoveToOrigin(float travelTime = .5f)
     {
-      return;
+        StartCoroutine(StartMovingToTransform(this.originPoint, travelTime));
     }
 
-    StartCoroutine(StartMovingToTransform(this.opponentOriginPoint, travelTime));
-  }
-
-  public IEnumerator StartMovingToTransform(Transform destinationTransform, float travelTime, bool updateDestination = false)
-  {
-    float elapsedTime = 0;
-    Vector3 currentPosition = this.transform.position;
-    float currentMoveValue;
-    Vector3 destination = destinationTransform.position;
-    Vector3 direction = (currentPosition - destination).normalized;
-
-    yield return new WaitUntil(() =>
+    private void MoveToMiddle(float travelTime = .5f)
     {
-      elapsedTime += Time.deltaTime;
+        StartCoroutine(StartMovingToTransform(this.middlePoint, travelTime));
+    }
 
-      if (updateDestination)
-      {
-        destination = new Vector3(destinationTransform.position.x + (direction.x * .2f), destinationTransform.position.y, destinationTransform.position.z);
-      }
+    private void MoveToOpponent(float travelTime = .5f)
+    {
+        StartCoroutine(StartMovingToTransform(this.opponentTransform, travelTime, true));
+    }
 
-      currentMoveValue = Mathf.Lerp(currentPosition.x, destination.x, elapsedTime / travelTime);
+    private void MoveToOpponentOrigin(float travelTime = .5f)
+    {
+        StartCoroutine(StartMovingToTransform(this.opponentOriginPoint, travelTime));
+    }
 
-      this.characterTransform.position = new Vector3(currentMoveValue, currentPosition.y, currentPosition.z);
+    private IEnumerator StartMovingToTransform(Transform destinationTransform, float travelTime, bool updateDestination = false)
+    {
+        float elapsedTime = 0;
+        Vector3 currentPosition = this.transform.position;
+        float currentMoveValue;
+        Vector3 destination = destinationTransform.position;
+        Vector3 direction = (currentPosition - destination).normalized;
 
-      return elapsedTime >= travelTime;
-    });
+        yield return new WaitUntil(() =>
+        {
+            elapsedTime += Time.deltaTime;
 
-    this.moving = false;
-  }
+            if (updateDestination)
+            {
+                destination = new Vector3(destinationTransform.position.x + (direction.x * .2f), destinationTransform.position.y, destinationTransform.position.z);
+            }
+
+            currentMoveValue = Mathf.Lerp(currentPosition.x, destination.x, elapsedTime / travelTime);
+
+            this.characterTransform.position = new Vector3(currentMoveValue, currentPosition.y, currentPosition.z);
+
+            return elapsedTime >= travelTime;
+        });
+
+        Debug.Log("move ended");
+        this.moving = false;
+    }
 }

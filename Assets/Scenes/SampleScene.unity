@@ -588,6 +588,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eaeafcfe6006e634a9de8dcc002973cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isPlayerCharacter: 1
   opponentController: {fileID: 1745686150}
 --- !u!114 &1283856840
 MonoBehaviour:
@@ -616,7 +617,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 880cbf85b1b2b0041b919efda56aa90e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  currentAction: 9
+  currentAction: 2
 --- !u!1 &1745686144
 GameObject:
   m_ObjectHideFlags: 0
@@ -771,6 +772,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eaeafcfe6006e634a9de8dcc002973cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isPlayerCharacter: 0
   opponentController: {fileID: 1283856839}
 --- !u!114 &1745686151
 MonoBehaviour:
@@ -799,7 +801,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 880cbf85b1b2b0041b919efda56aa90e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  currentAction: 1
+  currentAction: 2
 --- !u!1 &1838001554
 GameObject:
   m_ObjectHideFlags: 0

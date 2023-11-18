@@ -4,148 +4,179 @@ using UnityEngine;
 
 public class ActionController : MonoBehaviour
 {
-  public enum ActionsEnum
-  {
-    None = 0,
-    Attack_Regular = 1,
-    Attack_Special = 2,
-    Challenge = 3,
-    Cheer = 4,
-    Dash = 5,
-    Death = 6,
-    Evade = 7,
-    Flinch = 8,
-    Guard = 9,
-    Hold_Weapon = 10,
-    Idle = 11,
-    Idle_Hurt = 12,
-    Raise_Hand = 13,
-  }
-  private CharacterController characterController;
-  public CharacterController CharacterController => characterController;
-  [SerializeField] private ActionsEnum currentAction = ActionsEnum.None;
-  public ActionsEnum CurrentAction => currentAction;
-  private bool attacking = false;
-  public bool Attacking => attacking;
-
-  public void SetAction(ActionsEnum action)
-  {
-    this.currentAction = action;
-  }
-
-  private void Awake()
-  {
-    this.characterController = GetComponent<CharacterController>();
-  }
-
-  private void Update()
-  {
-    if (Input.GetKeyDown(KeyCode.U))
+    public enum ActionsEnum
     {
-      StartActionSequence();
+        Default = 0,
+        Attack_Regular = 1,
+        Attack_Special = 2,
+        Challenge = 3,
+        Cheer = 4,
+        Dash = 5,
+        Death = 6,
+        Evade = 7,
+        Flinch = 8,
+        Guard = 9,
+        Hold_Weapon = 10,
+        Idle = 11,
+        Idle_Hurt = 12,
+        Raise_Hand = 13,
     }
-  }
 
-  public void OnAttackStart()
-  {
-    this.attacking = true;
-  }
+    private CharacterController characterController;
+    public CharacterController CharacterController => characterController;
 
-  public void OnAttackEnd()
-  {
-    this.attacking = false;
-  }
+    [SerializeField]
+    private ActionsEnum currentAction = ActionsEnum.Default;
+    public ActionsEnum CurrentAction => currentAction;
+    private bool attacking = false;
+    public bool Attacking => attacking;
 
-  #region Actions
-  public void StartActionSequence()
-  {
-    StartCoroutine(this.characterController.AnimationController.StartAnimationSequence());
-  }
-
-  public void OnActionEnd()
-  {
-    this.currentAction = ActionsEnum.None;
-  }
-
-  #endregion
-
-  #region Getters
-
-  public bool IsAttacking()
-  {
-    switch (this.currentAction)
+    public void SetAction(ActionsEnum action)
     {
-      case ActionsEnum.Attack_Regular:
-        return true;
-      case ActionsEnum.Attack_Special:
-        return true;
-      default:
-        return false;
+        this.currentAction = action;
     }
-  }
 
-  public bool ShouldMove()
-  {
-    if (!IsAttacking())
+    private void Awake()
     {
-      return false;
+        this.characterController = GetComponent<CharacterController>();
     }
-    else if (!this.characterController.OpponentController.ActionController.IsAttacking())
-    {
-      return true;
-    }
-    else if (ShouldClash())
-    {
-      return true;
-    }
-    else
-    {
-      if (this.characterController.CharacterStateController.AdvantagePoints >= this.characterController.OpponentController.CharacterStateController.AdvantagePoints)
-      {
-        return true;
-      }
-      else
-      {
-        return false;
-      }
-    }
-  }
 
-  public bool ShouldFlinch()
-  {
-    if (this.currentAction != ActionsEnum.Guard && this.characterController.OpponentController.ActionController.IsAttacking())
+    private void Update()
     {
-      return true;
+        if (Input.GetKeyDown(KeyCode.U))
+        {
+            StartActionSequence();
+        }
     }
-    else
-    {
-      return false;
-    }
-  }
 
-  public bool ShouldCounter()
-  {
-    if (this.currentAction == ActionsEnum.Guard && this.characterController.OpponentController.ActionController.CurrentAction == ActionsEnum.Attack_Special)
+    public void OnAttackStart()
     {
-      return true;
+        this.attacking = true;
     }
-    else
-    {
-      return false;
-    }
-  }
 
-  public bool ShouldClash()
-  {
-    if (this.currentAction == ActionsEnum.Attack_Special && this.characterController.OpponentController.ActionController.CurrentAction == ActionsEnum.Attack_Special)
+    public void OnAttackEnd()
     {
-      return true;
+        this.attacking = false;
     }
-    else
-    {
-      return false;
-    }
-  }
 
-  #endregion
+    #region Actions
+
+    public void StartActionSequence()
+    {
+        StartCoroutine(this.characterController.AnimationController.StartAnimationSequence());
+    }
+
+    public void OnActionEnd()
+    {
+        this.currentAction = ActionsEnum.Default;
+    }
+
+    #endregion
+
+    #region Getters
+
+    public bool IsAttacking()
+    {
+        switch (this.currentAction)
+        {
+            case ActionsEnum.Attack_Regular:
+                return true;
+            case ActionsEnum.Attack_Special:
+                return true;
+            default:
+                return false;
+        }
+    }
+
+    public bool ShouldMove()
+    {
+        if (!IsAttacking())
+        {
+            return false;
+        }
+        else if (!this.characterController.OpponentController.ActionController.IsAttacking())
+        {
+            return true;
+        }
+        else if (ShouldClash())
+        {
+            return true;
+        }
+        else
+        {
+            if (this.characterController.CharacterStateController.AdvantagePoints
+            >= this.characterController.OpponentController.CharacterStateController.AdvantagePoints)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+    }
+
+    public bool ShouldFlinch()
+    {
+        if (this.currentAction != ActionsEnum.Guard
+            && this.characterController.OpponentController.ActionController.IsAttacking())
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+    }
+
+    public bool ShouldCounter()
+    {
+        if (this.currentAction == ActionsEnum.Guard
+        && this.characterController.OpponentController.ActionController.CurrentAction == ActionsEnum.Attack_Special)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+    }
+
+    public bool ShouldClash()
+    {
+        if (this.currentAction == ActionsEnum.Attack_Special
+        && this.characterController.OpponentController.ActionController.CurrentAction == ActionsEnum.Attack_Special)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+    }
+
+    public bool HaveAdvantage()
+    {
+        if (this.characterController.CharacterStateController.AdvantagePoints > this.characterController.OpponentController.CharacterStateController.AdvantagePoints)
+        {
+            return true;
+        }
+        else if (this.characterController.CharacterStateController.AdvantagePoints < this.characterController.OpponentController.CharacterStateController.AdvantagePoints)
+        {
+            return false;
+        }
+        else
+        {
+            if (this.characterController.IsPlayerCharacter)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+    }
+
+    #endregion
 }
